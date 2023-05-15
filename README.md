@@ -1,7 +1,7 @@
 # Python-Virtual-Hand-Mouse
 A virtual hand mouse programmed with Python.
 
-## Can you make a Virtual Hand Mouse using Python?
+## Can you create a Virtual Hand Mouse using Python?
 
 Here's the instruction :
 
