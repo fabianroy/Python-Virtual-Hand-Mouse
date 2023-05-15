@@ -3,7 +3,8 @@ A virtual hand mouse programmed with Python.
 
 _________________________________________________
 
-## Can you create a Virtual Hand Mouse using Python?
+### Can you create a Virtual Hand Mouse using Python?
+---
 Here's the instruction :
 
 1. Open the editor. (VS Code / Pucharm etc.)
