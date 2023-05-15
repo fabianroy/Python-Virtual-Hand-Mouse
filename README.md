@@ -11,4 +11,4 @@ Here's the instruction :
 3. Select the Python interpreter. 
 4. Then download 4 packages : mediapipe, pyautogui, opencv-python & protobuf 3.20.0 or  lower version of it.
 5. Then write the code for the programme. (You can see the "main.py" file in this repository to see the code. 
-6. Run the code and have fun!!
+6. The last step. Run the code and have fun!!
